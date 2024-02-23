@@ -1,7 +1,7 @@
 # FILTRO_JS
 This is the third filter of Riwi | JavaScript
 
-Repository objetive
+Repository objetive:
 Descargar Filtro de Moodle
 Crear Repositorio en Github para subir el filtro
 Ejecutar en local (Hacer instalación)
