@@ -1,0 +1,82 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132",
+      "password": "riwi2024"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132",
+      "password": "riwi2024"
+    },
+    {
+      "id": "2c40",
+      "email": "admin@facebook.com",
+      "nameCompany": "Facebook",
+      "imageCompany": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3A2023_Facebook_icon.svg&psig=AOvVaw2Issp8o8jL4q3Xdn9s7nBE&ust=1707840953982000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiHor2ZpoQDFQAAAAAdAAAAABAD",
+      "nit": 0,
+      "password": "123456"
+    },
+    {
+      "id": "f0d5",
+      "email": "admin@instagram.com",
+      "nameCompany": "Instagram",
+      "imageCompany": "",
+      "nit": 0,
+      "password": "123456"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "bde7",
+      "title": "Frontend Developer",
+      "experience": "5",
+      "salary": "5000",
+      "location": "England",
+      "modality": "Remote",
+      "description": "Are you ready for this?",
+      "publicationDate": "2024-02-12",
+      "companyId": "2034"
+    },
+    {
+      "id": "2140",
+      "title": "QA Developer",
+      "experience": "10",
+      "salary": "6000",
+      "location": "Brazil",
+      "modality": "In person",
+      "description": "Hi coder. We are interesting for you.",
+      "publicationDate": "2024-02-12",
+      "companyId": "2034"
+    },
+    {
+      "id": "b4fc",
+      "title": "Software Engineer",
+      "experience": "3",
+      "salary": "8500",
+      "location": "United States",
+      "modality": "Remote",
+      "description": "Welcome to the jungle brou!",
+      "publicationDate": "2024-02-12",
+      "companyId": "2034"
+    },
+    {
+      "title": "Scrum Master",
+      "description": "We are the world champions ",
+      "publicationDate": "2024-02-12",
+      "location": "Argentina",
+      "experience": "5",
+      "modality": "Remote",
+      "salary": "7500",
+      "companyId": "2c40",
+      "id": "0265"
+    }
+  ]
+}
